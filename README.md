@@ -1,7 +1,7 @@
 # scan-ouverture-port-by-cryptOn
 
-Public IP Scanner via Web Access
-This Python tool allows users to scan public IP addresses through web access. It retrieves relevant information about the target IPs, such as geolocation, ISP details, and potential vulnerabilities, by querying online databases and APIs. Ideal for network diagnostics and security assessments.
+🌍 Public IP Scanner via Web Access
+This Python tool allows users to scan public IP addresses through web access. It retrieves valuable information about target IPs, such as geolocation, ISP details, and potential vulnerabilities, by querying online databases and APIs. Additionally, it primarily scans ports commonly used by surveillance cameras, making it useful for security assessments and network diagnostics.
 
 ⚠️ Disclaimer ⚠️
-This tool is intended solely for educational and security research purposes. Unauthorized scanning of public IP addresses without explicit permission may violate laws and regulations. The developer assumes no liability for any misuse, damage, or legal consequences resulting from the use of this tool. Use it responsibly and at your own risk.
+This tool is strictly intended for educational and security research purposes. Scanning public IP addresses without explicit permission may violate laws and regulations. The developer assumes no responsibility for any misuse, damage, or legal consequences resulting from its use. Proceed responsibly and at your own risk.
